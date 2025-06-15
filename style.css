@@ -8,10 +8,10 @@
 
       body{
          font-family: "Nunito", serif;
-         height: 100vh;
+
       }
       main{
-         height: 90vh;
+         height: 100vh;
          background-color: rgb(184, 255, 136);
          display: flex;
          flex-flow: column wrap;
